@@ -2,6 +2,8 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/blog/fires.html",
+      "/blog/dominance.html",
       "/blog/dad.html",
       "/blog/my_best_work.html",
       "/blog/on_inclusion.html"

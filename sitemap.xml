@@ -1,35 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://misea.github.io/old_site/dad.html</loc>
-    <lastmod>2024-10-24T07:31:11.266Z</lastmod>
-  </url>
-  <url>
-    <loc>https://misea.github.io/old_site/thebestwork.html</loc>
-    <lastmod>2024-10-24T07:31:11.740Z</lastmod>
-  </url>
-  <url>
-    <loc>https://misea.github.io/index.html</loc>
-    <lastmod>2024-10-24T07:31:12.075Z</lastmod>
-  </url>
-  <url>
-    <loc>https://misea.github.io/blog/dad.html</loc>
-    <lastmod>2024-10-24T07:31:12.524Z</lastmod>
-  </url>
-  <url>
-    <loc>https://misea.github.io/blog/my_best_work.html</loc>
-    <lastmod>2024-10-24T07:31:13.054Z</lastmod>
+    <loc>https://misea.github.io/blog.html</loc>
+    <lastmod>2024-10-24T07:08:39.423Z</lastmod>
   </url>
   <url>
     <loc>https://misea.github.io/blog/on_inclusion.html</loc>
-    <lastmod>2024-10-24T07:31:13.454Z</lastmod>
+    <lastmod>2024-10-24T07:08:39.438Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/blog/dad.html</loc>
+    <lastmod>2024-10-24T07:08:39.423Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/blog/dominance.html</loc>
+    <lastmod>2025-02-07T18:49:01.937Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/old_site/thebestwork.html</loc>
+    <lastmod>2024-10-23T05:23:18.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/old_site/dad.html</loc>
+    <lastmod>2024-10-23T05:23:18.574Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/index.html</loc>
+    <lastmod>2024-10-24T07:08:39.438Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/blog/fires.html</loc>
+    <lastmod>2025-02-11T09:57:05.486Z</lastmod>
+  </url>
+  <url>
+    <loc>https://misea.github.io/blog/my_best_work.html</loc>
+    <lastmod>2024-10-24T07:08:39.437Z</lastmod>
   </url>
   <url>
     <loc>https://misea.github.io/about.html</loc>
-    <lastmod>2024-10-24T07:31:15.535Z</lastmod>
-  </url>
-  <url>
-    <loc>https://misea.github.io/blog.html</loc>
-    <lastmod>2024-10-24T07:31:15.908Z</lastmod>
+    <lastmod>2024-10-24T07:08:39.423Z</lastmod>
   </url>
 </urlset>
